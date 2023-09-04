@@ -1,0 +1,41 @@
+*{
+    margin: 0%;
+    border: 0;
+}
+.navbar{
+    height: 60px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+
+}
+.navlogo{
+    background-image: url(WhatsApp\ Image\ 2023-09-03\ at\ 11.26.45.jpg);
+    height: 58px;
+    width: 58px;
+    background-size: cover;
+    border-bottom: 2px solid black;
+}
+.millat{
+    color: aliceblue;
+    font-size: 30px;
+    margin-left: 15px;
+}
+/* header is complete */
+.snavbar{
+    height: 18px;
+    width: 100%;
+    background-color: rgb(51, 22, 22);
+}
+.plat{
+    color: rgb(210, 236, 228);
+}
+.image{
+    height: 600px;
+    width: 100%;
+    border: 2px solid black;
+    background-image: url(WhatsApp\ Image\ 2023-09-03\ at\ 12.04.11.jpg);
+}
+
+  
